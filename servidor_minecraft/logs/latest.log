@@ -1016,3 +1016,41 @@
 [28Nov2024 02:24:02.514] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 86d92052-ae22-36c5-8f75-d7eca2081c97
 [28Nov2024 02:24:02.515] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 24992, 24992
 [28Nov2024 02:24:02.516] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NaiSoraNaiShiro
+[28Nov2024 02:49:53.906] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3e052e25
+[28Nov2024 02:49:53.908] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DreamyDog9896[/100.68.56.8:50299] logged in with entity id 22379 at (-15.5, 73.0, 384.5)
+[28Nov2024 02:49:53.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 joined the game
+[28Nov2024 02:49:53.928] [Server thread/INFO] [tac/]: PENDING
+[28Nov2024 02:49:54.011] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fb05d785-3143-3f0a-8e67-9e556a7d061e
+[28Nov2024 02:49:54.036] [Server thread/INFO] [readyplayerfun/]: Unpausing server: onPlayerLogin, 0:25:51 at 24992, 24992
+[28Nov2024 02:49:54.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 has made the advancement [Inhospitable]
+[28Nov2024 02:49:55.209] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DreamyDog9896 (17)
+[28Nov2024 02:49:55.210] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DreamyDog9896
+[28Nov2024 02:50:09.766] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3e665833
+[28Nov2024 02:50:09.771] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NaiSoraNaiShiro[/100.113.131.81:53901] logged in with entity id 24490 at (-247.9552009257444, 66.0, 355.48227835038585)
+[28Nov2024 02:50:09.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro joined the game
+[28Nov2024 02:50:09.788] [Server thread/INFO] [tac/]: PENDING
+[28Nov2024 02:50:09.811] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 86d92052-ae22-36c5-8f75-d7eca2081c97
+[28Nov2024 02:50:09.991] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of NaiSoraNaiShiro (17)
+[28Nov2024 02:50:09.992] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to NaiSoraNaiShiro
+[28Nov2024 02:50:16.991] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fb05d785-3143-3f0a-8e67-9e556a7d061e
+[28Nov2024 02:50:17.983] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fb05d785-3143-3f0a-8e67-9e556a7d061e
+[28Nov2024 02:50:17.984] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DreamyDog9896 (fb05d785-3143-3f0a-8e67-9e556a7d061e) successfully connected to voice chat
+[28Nov2024 02:50:33.278] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 86d92052-ae22-36c5-8f75-d7eca2081c97
+[28Nov2024 02:50:34.281] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 86d92052-ae22-36c5-8f75-d7eca2081c97
+[28Nov2024 02:50:34.281] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NaiSoraNaiShiro (86d92052-ae22-36c5-8f75-d7eca2081c97) successfully connected to voice chat
+[28Nov2024 02:50:40.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DreamyDog9896> SAPAPERRA
+[28Nov2024 02:52:09.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 has made the advancement [Monster Hunter]
+[28Nov2024 02:53:25.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro has made the advancement [Monster Hunter]
+[28Nov2024 02:53:34.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DreamyDog9896> NAI
+[28Nov2024 02:54:32.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NaiSoraNaiShiro> Dime
+[28Nov2024 02:54:38.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DreamyDog9896> dc?
+[28Nov2024 02:54:44.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NaiSoraNaiShiro> YA ESTOY
+[28Nov2024 02:54:46.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NaiSoraNaiShiro> TE DIJE
+[28Nov2024 02:54:50.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DreamyDog9896> a
+[28Nov2024 02:54:53.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DreamyDog9896> no vi
+[28Nov2024 02:54:54.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DreamyDog9896> xD
+[28Nov2024 02:56:35.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 has made the advancement [Stone Age]
+[28Nov2024 02:57:00.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NaiSoraNaiShiro> aabre los cofres
+[28Nov2024 02:57:04.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NaiSoraNaiShiro> son loots diferentes
+[28Nov2024 02:57:10.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 has made the advancement ['X' Marks the Spot]
+[28Nov2024 02:58:22.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 was taken down by NaiSoraNaiShiro

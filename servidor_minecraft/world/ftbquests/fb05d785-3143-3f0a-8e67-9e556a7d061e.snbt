@@ -1,0 +1,28 @@
+{
+	version: 1
+	uuid: "fb05d78531433f0a8e679e556a7d061e"
+	name: "DreamyDog9896"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: {
+		047C5CB3ED9A8E47: 1
+		7CE16FEEA03DBE1F: 1
+		2394AAEC1A9810DD: 1
+	}
+	started: {
+		7CE16FEEA03DBE1F: 1732762194409L
+		4523079E2318BD94: 1732762194409L
+		2583DDB195B6CFEA: 1732762194409L
+		0000000000000001: 1732762194409L
+		2C6177EDC934F9DC: 1732762194411L
+		047C5CB3ED9A8E47: 1732762194411L
+		2394AAEC1A9810DD: 1732762402320L
+		103C05E04D0AEB52: 1732762402320L
+	}
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

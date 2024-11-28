@@ -338,6 +338,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-11-28 02:53:25 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:recipes/thermometer": {
     "criteria": {
       "has_recipe": "2024-11-27 17:42:41 +0000"
@@ -430,6 +436,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-11-28 02:53:25 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass": {
     "criteria": {
       "has_recipe": "2024-11-27 17:42:41 +0000"
@@ -477,6 +489,12 @@
       "has_the_recipe": "2024-11-27 17:42:41 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2024-11-28 02:53:25 +0000"
+    },
+    "done": false
   },
   "pfm:recipes/root": {
     "criteria": {

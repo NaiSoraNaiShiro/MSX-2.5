@@ -17067,3 +17067,41 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [28Nov2024 02:26:02.611] [Worker-Main11/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main11 shutdown
 [28Nov2024 02:27:02.611] [Worker-Main4/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main4 shutdown
 [28Nov2024 02:28:02.611] [Worker-Main38/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main38 shutdown
+[28Nov2024 02:29:02.611] [Worker-Main17/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main17 shutdown
+[28Nov2024 02:29:07.604] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[28Nov2024 02:29:07.654] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[28Nov2024 02:29:12.405] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[28Nov2024 02:29:12.405] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[28Nov2024 02:29:12.405] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[28Nov2024 02:29:12.406] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[28Nov2024 02:29:12.406] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[28Nov2024 02:29:12.406] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[28Nov2024 02:29:12.410] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[28Nov2024 02:29:12.411] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[28Nov2024 02:29:12.412] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[28Nov2024 02:29:12.413] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[28Nov2024 02:29:12.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Nov2024 02:29:12.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Nov2024 02:30:02.611] [Worker-Main3/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main3 shutdown
+[28Nov2024 02:31:02.611] [Worker-Main40/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main40 shutdown
+[28Nov2024 02:32:02.611] [Worker-Main15/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main15 shutdown
+[28Nov2024 02:32:27.754] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[28Nov2024 02:33:02.611] [Worker-Main60/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main60 shutdown
+[28Nov2024 02:34:02.611] [Worker-Main35/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main35 shutdown
+[28Nov2024 02:34:12.405] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[28Nov2024 02:34:12.405] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[28Nov2024 02:34:12.405] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[28Nov2024 02:34:12.405] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[28Nov2024 02:34:12.406] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[28Nov2024 02:34:12.409] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[28Nov2024 02:34:12.409] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[28Nov2024 02:34:12.410] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-87
+[28Nov2024 02:34:12.411] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-88
+[28Nov2024 02:34:12.412] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-89
+[28Nov2024 02:34:12.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Nov2024 02:34:12.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Nov2024 02:35:02.611] [Worker-Main41/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main41 shutdown
+[28Nov2024 02:35:47.704] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[28Nov2024 02:36:02.611] [Worker-Main42/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main42 shutdown
+[28Nov2024 02:37:02.611] [Worker-Main39/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main39 shutdown
+[28Nov2024 02:38:02.611] [Worker-Main19/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main19 shutdown

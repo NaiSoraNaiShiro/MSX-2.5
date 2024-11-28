@@ -1000,3 +1000,19 @@
 [28Nov2024 02:18:06.712] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 86d92052-ae22-36c5-8f75-d7eca2081c97
 [28Nov2024 02:18:06.713] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 22616, 22616
 [28Nov2024 02:18:06.716] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NaiSoraNaiShiro
+[28Nov2024 02:22:03.713] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@12ca7b57
+[28Nov2024 02:22:03.721] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NaiSoraNaiShiro[/100.113.131.81:53128] logged in with entity id 6666 at (-247.45499369788885, 66.0, 357.92060761057996)
+[28Nov2024 02:22:03.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro joined the game
+[28Nov2024 02:22:03.747] [Server thread/INFO] [tac/]: PENDING
+[28Nov2024 02:22:03.773] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 86d92052-ae22-36c5-8f75-d7eca2081c97
+[28Nov2024 02:22:03.792] [Server thread/INFO] [readyplayerfun/]: Unpausing server: onPlayerLogin, 0:03:57 at 22616, 22616
+[28Nov2024 02:22:04.001] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of NaiSoraNaiShiro (17)
+[28Nov2024 02:22:04.001] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to NaiSoraNaiShiro
+[28Nov2024 02:22:30.936] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 86d92052-ae22-36c5-8f75-d7eca2081c97
+[28Nov2024 02:22:31.940] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 86d92052-ae22-36c5-8f75-d7eca2081c97
+[28Nov2024 02:22:31.942] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player NaiSoraNaiShiro (86d92052-ae22-36c5-8f75-d7eca2081c97) successfully connected to voice chat
+[28Nov2024 02:24:02.513] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NaiSoraNaiShiro lost connection: Disconnected
+[28Nov2024 02:24:02.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro left the game
+[28Nov2024 02:24:02.514] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 86d92052-ae22-36c5-8f75-d7eca2081c97
+[28Nov2024 02:24:02.515] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 24992, 24992
+[28Nov2024 02:24:02.516] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NaiSoraNaiShiro

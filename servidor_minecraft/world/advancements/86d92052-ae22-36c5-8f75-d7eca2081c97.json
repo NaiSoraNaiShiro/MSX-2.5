@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-11-29 20:11:07 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_the_recipe": "2024-11-28 03:04:07 +0000"
@@ -403,6 +409,12 @@
     },
     "done": false
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-11-29 20:11:43 +0000"
+    },
+    "done": true
+  },
   "crossbowverhaul:recipes/combat/bolt_gold": {
     "criteria": {
       "has_ingot": "2024-11-28 03:05:16 +0000"
@@ -528,7 +540,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:zombie": "2024-11-29 19:54:44 +0000"
+      "minecraft:husk": "2024-11-29 20:14:40 +0000",
+      "minecraft:zombie": "2024-11-29 19:54:44 +0000",
+      "minecraft:zombie_villager": "2024-11-29 20:20:44 +0000"
     },
     "done": false
   },
@@ -610,6 +624,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-11-29 20:12:18 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2024-11-28 03:04:07 +0000"
@@ -644,6 +664,12 @@
   "crossbowverhaul:recipes/combat/bolt_iron": {
     "criteria": {
       "has_ingot": "2024-11-28 03:12:03 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:huddle_close": {
+    "criteria": {
+      "requirement": "2024-11-29 20:22:34 +0000"
     },
     "done": true
   },

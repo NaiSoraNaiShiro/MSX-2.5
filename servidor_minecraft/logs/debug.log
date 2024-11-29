@@ -17863,3 +17863,66 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Nov2024 22:35:48.263] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
 [29Nov2024 22:35:48.684] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['DreamyDog9896'/63967, l='ServerLevel[world]', x=-376.88, y=53.00, z=32.54], dimensionLocationPath overworld
 [29Nov2024 22:35:48.684] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['DreamyDog9896'/63967, l='ServerLevel[world]', x=-376.88, y=53.00, z=32.54] in list []
+[29Nov2024 22:35:50.521] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['DreamyDog9896'/63967, l='ServerLevel[world]', x=-376.49, y=53.00, z=29.78]
+[29Nov2024 22:35:55.778] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['DreamyDog9896'/63967, l='ServerLevel[world]', x=-379.91, y=62.65, z=9.67], dimensionLocationPath overworld
+[29Nov2024 22:35:55.779] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['DreamyDog9896'/63967, l='ServerLevel[world]', x=-379.91, y=62.65, z=9.67] in list []
+[29Nov2024 22:36:00.629] [Worker-Main22/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-2, -2]
+[29Nov2024 22:36:02.404] [Worker-Main2/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-3, -2]
+[29Nov2024 22:36:04.098] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['DreamyDog9896'/63967, l='ServerLevel[world]', x=-368.82, y=61.35, z=8.12]
+[29Nov2024 22:36:04.884] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['DreamyDog9896'/63967, l='ServerLevel[world]', x=-368.30, y=61.44, z=7.73], dimensionLocationPath overworld
+[29Nov2024 22:36:04.884] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['DreamyDog9896'/63967, l='ServerLevel[world]', x=-368.30, y=61.44, z=7.73] in list []
+[29Nov2024 22:36:20.298] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[29Nov2024 22:36:29.304] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Nov2024 22:36:29.354] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[29Nov2024 22:36:30.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 has made the advancement [Pest Control]
+[29Nov2024 22:36:34.100] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-2, 0] Saved.
+[29Nov2024 22:36:34.103] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -1] Saved.
+[29Nov2024 22:36:34.106] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[29Nov2024 22:36:34.106] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[29Nov2024 22:36:34.106] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-56
+[29Nov2024 22:36:34.108] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-2, -1] Saved.
+[29Nov2024 22:36:34.108] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-2, -2] Saved.
+[29Nov2024 22:36:34.108] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-57
+[29Nov2024 22:36:34.114] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, 0] Saved.
+[29Nov2024 22:36:34.114] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-3, -1] Saved.
+[29Nov2024 22:36:34.115] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-3, -2] Saved.
+[29Nov2024 22:36:34.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 22:36:34.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 22:36:43.997] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['DreamyDog9896'/63967, l='ServerLevel[world]', x=-269.81, y=61.03, z=-59.71]
+[29Nov2024 22:36:47.081] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['DreamyDog9896'/63967, l='ServerLevel[world]', x=-258.39, y=62.66, z=-57.66], dimensionLocationPath overworld
+[29Nov2024 22:36:47.081] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['DreamyDog9896'/63967, l='ServerLevel[world]', x=-258.39, y=62.66, z=-57.66] in list []
+[29Nov2024 22:37:15.477] [Worker-Main17/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-1, -2]
+[29Nov2024 22:37:30.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 has made the advancement [Crops of the Wild]
+[29Nov2024 22:37:40.299] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2114c02f
+[29Nov2024 22:38:06.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 has made the advancement [A Glorious Feast]
+[29Nov2024 22:38:31.355] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/161037, l='ServerLevel[world]', x=-211.55, y=85.54, z=-106.73], dimensionLocationPath overworld
+[29Nov2024 22:38:31.355] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/161037, l='ServerLevel[world]', x=-211.55, y=85.54, z=-106.73] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@f9df]
+[29Nov2024 22:38:31.855] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/161037, l='ServerLevel[world]', x=-211.37, y=85.29, z=-107.44, removed=DISCARDED]
+[29Nov2024 22:38:39.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported NaiSoraNaiShiro to Negks
+[29Nov2024 22:38:40.771] [IO-Worker-45/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[29Nov2024 22:38:40.981] [IO-Worker-51/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[29Nov2024 22:38:40.983] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[29Nov2024 22:38:43.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 has made the advancement ['X' Marks the Spot]
+[29Nov2024 22:38:49.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 has made the advancement [Acquire Hardware]
+[29Nov2024 22:39:49.505] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[29Nov2024 22:40:30.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro was slain by Zombie
+[29Nov2024 22:40:30.235] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['NaiSoraNaiShiro'/158, l='ServerLevel[world]', x=-362.30, y=63.00, z=-737.70]
+[29Nov2024 22:40:31.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Nov2024 22:40:31.650] [Server thread/INFO] [tac/]: PENDING
+[29Nov2024 22:41:15.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks has made the advancement [Huddle Close]
+[29Nov2024 22:41:34.088] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61
+[29Nov2024 22:41:34.089] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -2] Saved.
+[29Nov2024 22:41:34.089] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -1] Saved.
+[29Nov2024 22:41:34.089] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[29Nov2024 22:41:34.089] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-62
+[29Nov2024 22:41:34.089] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-63
+[29Nov2024 22:41:34.090] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-64
+[29Nov2024 22:41:34.091] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-2, -2] Saved.
+[29Nov2024 22:41:34.092] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-65
+[29Nov2024 22:41:34.095] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-3, -2] Saved.
+[29Nov2024 22:41:34.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 22:41:34.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 22:42:04.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Negks to NaiSoraNaiShiro
+[29Nov2024 22:43:09.405] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[29Nov2024 22:44:57.673] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['DreamyDog9896'/63967, l='ServerLevel[world]', x=-212.50, y=84.00, z=-119.14]
+[29Nov2024 22:45:40.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made NaiSoraNaiShiro a server operator

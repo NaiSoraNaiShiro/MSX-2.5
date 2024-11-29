@@ -353,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-11-29 19:54:44 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:recipes/thermometer": {
     "criteria": {
       "has_recipe": "2024-11-28 03:04:07 +0000"
@@ -406,7 +412,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2024-11-28 03:17:07 +0000",
-      "minecraft:river": "2024-11-28 03:13:07 +0000"
+      "minecraft:river": "2024-11-28 03:13:07 +0000",
+      "minecraft:stony_shore": "2024-11-29 19:54:11 +0000",
+      "minecraft:ocean": "2024-11-29 19:58:04 +0000"
     },
     "done": false
   },
@@ -464,6 +472,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-11-29 19:54:44 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass": {
     "criteria": {
       "has_recipe": "2024-11-28 03:04:07 +0000"
@@ -511,6 +525,12 @@
       "has_the_recipe": "2024-11-28 03:04:07 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2024-11-29 19:54:44 +0000"
+    },
+    "done": false
   },
   "pfm:recipes/root": {
     "criteria": {

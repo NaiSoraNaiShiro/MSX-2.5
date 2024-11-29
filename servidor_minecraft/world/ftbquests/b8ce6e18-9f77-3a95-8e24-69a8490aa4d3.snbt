@@ -1,0 +1,28 @@
+{
+	version: 1
+	uuid: "b8ce6e189f773a958e2469a8490aa4d3"
+	name: "Negks"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: {
+		1D17B12115255752: 1
+		047C5CB3ED9A8E47: 1
+		7CE16FEEA03DBE1F: 1
+	}
+	started: {
+		7CE16FEEA03DBE1F: 1732909765724L
+		4523079E2318BD94: 1732909765724L
+		2583DDB195B6CFEA: 1732909765724L
+		0000000000000001: 1732909765724L
+		2C6177EDC934F9DC: 1732909765726L
+		047C5CB3ED9A8E47: 1732909765726L
+		1191928136871CA9: 1732909955217L
+		1D17B12115255752: 1732909955217L
+	}
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

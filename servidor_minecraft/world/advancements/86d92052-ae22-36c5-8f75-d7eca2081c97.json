@@ -65,15 +65,15 @@
     },
     "done": true
   },
-  "cold_sweat:root": {
-    "criteria": {
-      "requirement": "2024-11-28 03:04:08 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_black_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-28 03:04:07 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:root": {
+    "criteria": {
+      "requirement": "2024-11-28 03:04:08 +0000"
     },
     "done": true
   },
@@ -125,15 +125,15 @@
     },
     "done": true
   },
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2024-11-28 03:05:13 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2024-11-28 03:04:07 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-11-28 03:05:13 +0000"
     },
     "done": true
   },
@@ -397,18 +397,18 @@
     },
     "done": false
   },
+  "crossbowverhaul:recipes/combat/bolt_gold": {
+    "criteria": {
+      "has_ingot": "2024-11-28 03:05:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2024-11-28 03:17:07 +0000",
       "minecraft:river": "2024-11-28 03:13:07 +0000"
     },
     "done": false
-  },
-  "crossbowverhaul:recipes/combat/bolt_gold": {
-    "criteria": {
-      "has_ingot": "2024-11-28 03:05:16 +0000"
-    },
-    "done": true
   },
   "comforts:hammock_blue_from_white": {
     "criteria": {
@@ -488,15 +488,15 @@
     },
     "done": false
   },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2024-11-28 03:04:08 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_black_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-28 03:04:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-11-28 03:04:08 +0000"
     },
     "done": true
   },

@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "create:brass": {
+    "criteria": {
+      "0": "2024-11-29 23:36:21 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "cherry_blossom_grove": "2024-11-29 21:41:50 +0000"
@@ -218,6 +224,12 @@
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-29 21:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-11-29 23:31:32 +0000"
     },
     "done": true
   },
@@ -398,7 +410,8 @@
       "fir_clearing": "2024-11-29 23:14:34 +0000",
       "grassland": "2024-11-29 21:43:16 +0000",
       "prairie": "2024-11-29 22:51:49 +0000",
-      "rainforest": "2024-11-29 22:17:08 +0000"
+      "rainforest": "2024-11-29 22:17:08 +0000",
+      "ominous_woods": "2024-11-29 23:31:53 +0000"
     },
     "done": false
   },
@@ -644,6 +657,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-11-29 23:21:51 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2024-11-29 21:41:49 +0000"
@@ -654,6 +673,12 @@
     "criteria": {
       "has_blazepowder": "2024-11-29 21:41:50 +0000",
       "has_bolt": "2024-11-29 21:41:50 +0000"
+    },
+    "done": true
+  },
+  "crossbowverhaul:recipes/combat/bolt_iron": {
+    "criteria": {
+      "has_ingot": "2024-11-29 23:21:51 +0000"
     },
     "done": true
   },

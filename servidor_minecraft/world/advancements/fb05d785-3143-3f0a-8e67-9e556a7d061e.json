@@ -125,13 +125,19 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_purple": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 22:26:19 +0000"
+    },
+    "done": true
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2024-11-29 22:38:43 +0000"
     },
     "done": true
   },
-  "comforts:sleeping_bag_purple": {
+  "comforts:hammock_pink_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-29 22:26:19 +0000"
     },
@@ -140,12 +146,6 @@
   "alexsmobs:alexsmobs/crimson_mosquito_larva": {
     "criteria": {
       "rat_upgrade_basic": "2024-11-29 22:36:30 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_pink_from_white": {
-    "criteria": {
-      "has_the_recipe": "2024-11-29 22:26:19 +0000"
     },
     "done": true
   },
@@ -207,6 +207,12 @@
   "parcool:grant_parcool_guide": {
     "criteria": {
       "tick": "2024-11-29 22:26:19 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2024-11-29 23:36:15 +0000"
     },
     "done": true
   },
@@ -336,12 +342,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:zombie": "2024-11-29 22:27:50 +0000"
-    },
-    "done": true
-  },
   "lootr:root": {
     "criteria": {
       "always_true": "2024-11-29 22:26:19 +0000"
@@ -351,6 +351,12 @@
   "ag_day_counter:day_counter_root_advancement": {
     "criteria": {
       "day_counter_root_advancement": "2024-11-29 22:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-11-29 22:27:50 +0000"
     },
     "done": true
   },
@@ -388,10 +394,13 @@
     "criteria": {
       "clover_patch": "2024-11-29 22:26:57 +0000",
       "lavender_forest": "2024-11-29 22:54:22 +0000",
+      "coniferous_forest": "2024-11-29 23:32:52 +0000",
       "cherry_blossom_grove": "2024-11-29 22:26:19 +0000",
       "lavender_field": "2024-11-29 22:53:56 +0000",
+      "fir_clearing": "2024-11-29 23:31:06 +0000",
       "grassland": "2024-11-29 22:37:10 +0000",
-      "rainforest": "2024-11-29 22:29:29 +0000"
+      "rainforest": "2024-11-29 22:29:29 +0000",
+      "ominous_woods": "2024-11-29 23:32:39 +0000"
     },
     "done": false
   },
@@ -403,7 +412,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:river": "2024-11-29 22:27:11 +0000"
+      "minecraft:river": "2024-11-29 22:27:11 +0000",
+      "minecraft:stony_shore": "2024-11-29 23:28:18 +0000"
     },
     "done": false
   },
@@ -458,6 +468,12 @@
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2024-11-29 22:26:19 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-11-29 23:36:16 +0000"
     },
     "done": true
   },

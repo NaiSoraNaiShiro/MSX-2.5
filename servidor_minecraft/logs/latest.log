@@ -1250,3 +1250,29 @@ Caused by: java.lang.IllegalArgumentException: Player Negks is missing a damage 
 [29Nov2024 23:23:13.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to Negks]
 [29Nov2024 23:25:54.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
 [29Nov2024 23:25:54.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sddsfsdf<--[HERE]
+[29Nov2024 23:28:08.232] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@16899746
+[29Nov2024 23:28:08.239] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DreamyDog9896[/100.68.56.8:54975] logged in with entity id 499300 at (150.7385306012125, 96.0, -1229.6128166535073)
+[29Nov2024 23:28:08.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 joined the game
+[29Nov2024 23:28:08.277] [Server thread/INFO] [tac/]: PENDING
+[29Nov2024 23:28:08.289] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fb05d785-3143-3f0a-8e67-9e556a7d061e
+[29Nov2024 23:28:08.528] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DreamyDog9896 (17)
+[29Nov2024 23:28:08.530] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DreamyDog9896
+[29Nov2024 23:28:17.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported DreamyDog9896 to NaiSoraNaiShiro]
+[29Nov2024 23:28:18.386] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fb05d785-3143-3f0a-8e67-9e556a7d061e
+[29Nov2024 23:28:19.326] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fb05d785-3143-3f0a-8e67-9e556a7d061e
+[29Nov2024 23:28:19.326] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DreamyDog9896 (fb05d785-3143-3f0a-8e67-9e556a7d061e) successfully connected to voice chat
+[29Nov2024 23:28:22.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Nov2024 23:28:22.131] [Server thread/INFO] [tac/]: PENDING
+[29Nov2024 23:28:26.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported DreamyDog9896 to NaiSoraNaiShiro]
+[29Nov2024 23:30:45.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro was slain by DreamyDog9896
+[29Nov2024 23:30:47.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Nov2024 23:30:47.103] [Server thread/INFO] [tac/]: PENDING
+[29Nov2024 23:30:47.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1064, y=63, z=-1202} BlockPos{x=1065, y=64, z=-1202}
+[29Nov2024 23:31:32.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro has made the advancement [Isn't It Iron Pick]
+[29Nov2024 23:34:47.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported DreamyDog9896 to NaiSoraNaiShiro]
+[29Nov2024 23:34:53.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
+[29Nov2024 23:34:58.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 was eliminated by NaiSoraNaiShiro
+[29Nov2024 23:35:00.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Nov2024 23:35:00.285] [Server thread/INFO] [tac/]: PENDING
+[29Nov2024 23:35:01.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported DreamyDog9896 to NaiSoraNaiShiro]
+[29Nov2024 23:36:16.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 has made the advancement [Disme A Dozen]

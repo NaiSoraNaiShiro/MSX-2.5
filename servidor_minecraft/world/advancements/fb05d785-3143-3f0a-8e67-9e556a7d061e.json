@@ -181,6 +181,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2024-11-29 22:56:23 +0000",
       "cookie": "2024-11-29 22:39:58 +0000"
     },
     "done": false
@@ -380,7 +381,9 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "clover_patch": "2024-11-29 22:26:57 +0000",
+      "lavender_forest": "2024-11-29 22:54:22 +0000",
       "cherry_blossom_grove": "2024-11-29 22:26:19 +0000",
+      "lavender_field": "2024-11-29 22:53:56 +0000",
       "grassland": "2024-11-29 22:37:10 +0000",
       "rainforest": "2024-11-29 22:29:29 +0000"
     },

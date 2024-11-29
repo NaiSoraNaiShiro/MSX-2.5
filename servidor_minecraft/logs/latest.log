@@ -1285,3 +1285,22 @@ Caused by: java.lang.IllegalArgumentException: Player Negks is missing a damage 
 [29Nov2024 23:41:52.064] [Server thread/INFO] [de.melanx.simplebackups.SimpleBackups/]: Backup done.
 [29Nov2024 23:41:52.065] [SimpleBackups/INFO] [de.melanx.simplebackups.BackupThread/]: Successfully deleted "world_2024-11-29_21-21-01.zip"
 [29Nov2024 23:43:56.000] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[29Nov2024 23:47:12.968] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[29Nov2024 23:47:15.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 was slain by Negks
+[29Nov2024 23:47:18.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Nov2024 23:47:18.119] [Server thread/INFO] [tac/]: PENDING
+[29Nov2024 23:47:20.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks was slain by entity.hordes.ZombiePlayer.chat
+[29Nov2024 23:47:23.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Nov2024 23:47:23.143] [Server thread/INFO] [tac/]: PENDING
+[29Nov2024 23:47:31.918] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['DreamyDog9896'/612469, l='ServerLevel[world]', x=831.52, y=198.00, z=-1060.07] died: entity.hordes.ZombiePlayer.chat was slain by NaiSoraNaiShiro
+[29Nov2024 23:47:36.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
+[29Nov2024 23:47:40.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported DreamyDog9896 to NaiSoraNaiShiro]
+[29Nov2024 23:51:17.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro has made the advancement [Uhhh, gross?]
+[29Nov2024 23:51:17.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro has made the advancement [They're out there...]
+[29Nov2024 23:52:39.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NaiSoraNaiShiro> CALLUS
+[29Nov2024 23:55:37.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NaiSoraNaiShiro moved wrongly!
+[29Nov2024 23:55:53.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 died from dehydration
+[29Nov2024 23:55:56.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Nov2024 23:55:56.024] [Server thread/INFO] [tac/]: PENDING
+[29Nov2024 23:56:23.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported DreamyDog9896 to NaiSoraNaiShiro]
+[29Nov2024 23:56:31.435] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['DreamyDog9896'/662932, l='ServerLevel[world]', x=822.52, y=186.00, z=-1064.38] died: entity.hordes.ZombiePlayer.chat was slain by NaiSoraNaiShiro

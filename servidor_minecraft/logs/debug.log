@@ -19431,3 +19431,78 @@ Caused by: java.lang.IllegalArgumentException: Player Negks is missing a damage 
 [29Nov2024 23:46:34.078] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-174
 [29Nov2024 23:46:34.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Nov2024 23:46:34.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 23:47:12.968] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[29Nov2024 23:47:15.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 was slain by Negks
+[29Nov2024 23:47:16.016] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['DreamyDog9896'/499300, l='ServerLevel[world]', x=831.39, y=198.00, z=-1066.69]
+[29Nov2024 23:47:18.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Nov2024 23:47:18.119] [Server thread/INFO] [tac/]: PENDING
+[29Nov2024 23:47:20.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks was slain by entity.hordes.ZombiePlayer.chat
+[29Nov2024 23:47:20.126] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['Negks'/289739, l='ServerLevel[world]', x=831.49, y=198.00, z=-1069.97]
+[29Nov2024 23:47:23.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Nov2024 23:47:23.143] [Server thread/INFO] [tac/]: PENDING
+[29Nov2024 23:47:31.918] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['DreamyDog9896'/612469, l='ServerLevel[world]', x=831.52, y=198.00, z=-1060.07] died: entity.hordes.ZombiePlayer.chat was slain by NaiSoraNaiShiro
+[29Nov2024 23:47:36.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
+[29Nov2024 23:47:40.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported DreamyDog9896 to NaiSoraNaiShiro]
+[29Nov2024 23:48:08.765] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Negks'/289739, l='ServerLevel[world]', x=831.38, y=198.00, z=-1068.47], dimensionLocationPath overworld
+[29Nov2024 23:48:08.765] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Negks'/289739, l='ServerLevel[world]', x=831.38, y=198.00, z=-1068.47] in list []
+[29Nov2024 23:48:11.563] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Negks'/289739, l='ServerLevel[world]', x=831.38, y=198.00, z=-1068.47]
+[29Nov2024 23:49:06.217] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['DreamyDog9896'/499300, l='ServerLevel[world]', x=831.45, y=198.00, z=-1066.41], dimensionLocationPath overworld
+[29Nov2024 23:49:06.217] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['DreamyDog9896'/499300, l='ServerLevel[world]', x=831.45, y=198.00, z=-1066.41] in list []
+[29Nov2024 23:49:25.714] [IO-Worker-171/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-175
+[29Nov2024 23:49:49.804] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[29Nov2024 23:50:32.913] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['DreamyDog9896'/499300, l='ServerLevel[world]', x=822.77, y=192.00, z=-1055.53]
+[29Nov2024 23:50:36.763] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['DreamyDog9896'/499300, l='ServerLevel[world]', x=822.77, y=192.00, z=-1055.53], dimensionLocationPath overworld
+[29Nov2024 23:50:36.763] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['DreamyDog9896'/499300, l='ServerLevel[world]', x=822.77, y=192.00, z=-1055.53] in list []
+[29Nov2024 23:51:17.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro has made the advancement [Uhhh, gross?]
+[29Nov2024 23:51:17.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro has made the advancement [They're out there...]
+[29Nov2024 23:51:34.075] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-176
+[29Nov2024 23:51:34.075] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-177
+[29Nov2024 23:51:34.075] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-178
+[29Nov2024 23:51:34.076] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-179
+[29Nov2024 23:51:34.077] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-180
+[29Nov2024 23:51:34.078] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-181
+[29Nov2024 23:51:34.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 23:51:34.124] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 23:52:39.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NaiSoraNaiShiro> CALLUS
+[29Nov2024 23:53:09.754] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[29Nov2024 23:53:32.446] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of NaiSoraNaiShiro: {disabled=true, disconnected=false, uuid=86d92052-ae22-36c5-8f75-d7eca2081c97, name=NaiSoraNaiShiro, group=null}
+[29Nov2024 23:54:49.116] [IO-Worker-177/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-182
+[29Nov2024 23:55:09.487] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DreamyDog9896: {disabled=true, disconnected=false, uuid=fb05d785-3143-3f0a-8e67-9e556a7d061e, name=DreamyDog9896, group=null}
+[29Nov2024 23:55:09.986] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DreamyDog9896: {disabled=false, disconnected=false, uuid=fb05d785-3143-3f0a-8e67-9e556a7d061e, name=DreamyDog9896, group=null}
+[29Nov2024 23:55:10.036] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DreamyDog9896: {disabled=true, disconnected=false, uuid=fb05d785-3143-3f0a-8e67-9e556a7d061e, name=DreamyDog9896, group=null}
+[29Nov2024 23:55:10.086] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DreamyDog9896: {disabled=false, disconnected=false, uuid=fb05d785-3143-3f0a-8e67-9e556a7d061e, name=DreamyDog9896, group=null}
+[29Nov2024 23:55:10.095] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DreamyDog9896: {disabled=true, disconnected=false, uuid=fb05d785-3143-3f0a-8e67-9e556a7d061e, name=DreamyDog9896, group=null}
+[29Nov2024 23:55:10.136] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DreamyDog9896: {disabled=false, disconnected=false, uuid=fb05d785-3143-3f0a-8e67-9e556a7d061e, name=DreamyDog9896, group=null}
+[29Nov2024 23:55:10.186] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DreamyDog9896: {disabled=true, disconnected=false, uuid=fb05d785-3143-3f0a-8e67-9e556a7d061e, name=DreamyDog9896, group=null}
+[29Nov2024 23:55:10.191] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DreamyDog9896: {disabled=false, disconnected=false, uuid=fb05d785-3143-3f0a-8e67-9e556a7d061e, name=DreamyDog9896, group=null}
+[29Nov2024 23:55:10.238] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DreamyDog9896: {disabled=true, disconnected=false, uuid=fb05d785-3143-3f0a-8e67-9e556a7d061e, name=DreamyDog9896, group=null}
+[29Nov2024 23:55:10.286] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DreamyDog9896: {disabled=false, disconnected=false, uuid=fb05d785-3143-3f0a-8e67-9e556a7d061e, name=DreamyDog9896, group=null}
+[29Nov2024 23:55:10.292] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DreamyDog9896: {disabled=true, disconnected=false, uuid=fb05d785-3143-3f0a-8e67-9e556a7d061e, name=DreamyDog9896, group=null}
+[29Nov2024 23:55:10.337] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of DreamyDog9896: {disabled=false, disconnected=false, uuid=fb05d785-3143-3f0a-8e67-9e556a7d061e, name=DreamyDog9896, group=null}
+[29Nov2024 23:55:37.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NaiSoraNaiShiro moved wrongly!
+[29Nov2024 23:55:53.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 died from dehydration
+[29Nov2024 23:55:53.767] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['DreamyDog9896'/499300, l='ServerLevel[world]', x=823.46, y=186.00, z=-1071.58]
+[29Nov2024 23:55:56.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Nov2024 23:55:56.024] [Server thread/INFO] [tac/]: PENDING
+[29Nov2024 23:56:23.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported DreamyDog9896 to NaiSoraNaiShiro]
+[29Nov2024 23:56:23.787] [IO-Worker-182/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-183
+[29Nov2024 23:56:29.555] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Nov2024 23:56:29.754] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[29Nov2024 23:56:31.435] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['DreamyDog9896'/662932, l='ServerLevel[world]', x=822.52, y=186.00, z=-1064.38] died: entity.hordes.ZombiePlayer.chat was slain by NaiSoraNaiShiro
+[29Nov2024 23:56:31.455] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/667598, l='ServerLevel[world]', x=822.52, y=186.00, z=-1064.38], dimensionLocationPath overworld
+[29Nov2024 23:56:31.455] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/667598, l='ServerLevel[world]', x=822.52, y=186.00, z=-1064.38] in list []
+[29Nov2024 23:56:32.455] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/667598, l='ServerLevel[world]', x=822.88, y=186.00, z=-1065.38, removed=DISCARDED]
+[29Nov2024 23:56:34.074] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-184
+[29Nov2024 23:56:34.074] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-185
+[29Nov2024 23:56:34.075] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-186
+[29Nov2024 23:56:34.076] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-187
+[29Nov2024 23:56:34.096] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-188
+[29Nov2024 23:56:34.097] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-189
+[29Nov2024 23:56:34.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 23:56:34.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 23:56:35.055] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/667921, l='ServerLevel[world]', x=824.20, y=187.32, z=-1067.02], dimensionLocationPath overworld
+[29Nov2024 23:56:35.055] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/667921, l='ServerLevel[world]', x=824.20, y=187.32, z=-1067.02] in list []
+[29Nov2024 23:56:37.055] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/667921, l='ServerLevel[world]', x=823.64, y=186.00, z=-1066.13, removed=DISCARDED]
+[29Nov2024 23:56:41.655] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/668726, l='ServerLevel[world]', x=824.20, y=187.32, z=-1067.02], dimensionLocationPath overworld
+[29Nov2024 23:56:41.655] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/668726, l='ServerLevel[world]', x=824.20, y=187.32, z=-1067.02] in list []
+[29Nov2024 23:56:43.655] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/668726, l='ServerLevel[world]', x=823.55, y=186.00, z=-1066.13, removed=DISCARDED]

@@ -1029,3 +1029,27 @@
 [29Nov2024 22:20:36.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro has made the advancement [Disme A Dozen]
 [29Nov2024 22:22:33.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro has made the advancement [Sweet Dreams]
 [29Nov2024 22:22:54.870] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7290e344[id=<null>,name=DreamyDog9896,properties={},legacy=false] (/100.68.56.8:50547) lost connection: Disconnected
+[29Nov2024 22:26:18.864] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@73a1a070
+[29Nov2024 22:26:18.869] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DreamyDog9896[/100.68.56.8:50990] logged in with entity id 63967 at (48.5, 68.0, 32.5)
+[29Nov2024 22:26:18.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 joined the game
+[29Nov2024 22:26:18.921] [Server thread/INFO] [tac/]: PENDING
+[29Nov2024 22:26:18.980] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fb05d785-3143-3f0a-8e67-9e556a7d061e
+[29Nov2024 22:26:19.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 has made the advancement [Inhospitable]
+[29Nov2024 22:26:20.297] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DreamyDog9896 (17)
+[29Nov2024 22:26:20.297] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DreamyDog9896
+[29Nov2024 22:26:36.812] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fb05d785-3143-3f0a-8e67-9e556a7d061e
+[29Nov2024 22:26:37.811] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fb05d785-3143-3f0a-8e67-9e556a7d061e
+[29Nov2024 22:26:37.812] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DreamyDog9896 (fb05d785-3143-3f0a-8e67-9e556a7d061e) successfully connected to voice chat
+[29Nov2024 22:27:50.318] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 has made the advancement [Monster Hunter]
+[29Nov2024 22:28:29.137] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 has made the advancement [First Day]
+[29Nov2024 22:29:04.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <DreamyDog9896> amyuda
+[29Nov2024 22:29:29.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported DreamyDog9896 to NaiSoraNaiShiro
+[29Nov2024 22:31:21.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro was slain by The Wheezer
+[29Nov2024 22:31:22.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Nov2024 22:31:22.444] [Server thread/INFO] [tac/]: PENDING
+[29Nov2024 22:32:02.226] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[29Nov2024 22:34:55.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No entity was found
+[29Nov2024 22:35:05.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No entity was found
+[29Nov2024 22:35:15.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Incorrect argument for command
+[29Nov2024 22:35:15.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ...myDog9896  NaiSoraNaiShiro<--[HERE]
+[29Nov2024 22:35:28.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 has made the advancement [Stone Age]

@@ -1163,3 +1163,90 @@ Caused by: java.lang.IllegalArgumentException: Player Negks is missing a damage 
 [29Nov2024 22:57:16.574] [Server thread/INFO] [tac/]: PENDING
 [29Nov2024 23:00:12.568] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
 [29Nov2024 23:00:41.637] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Negks'/288706, l='ServerLevel[world]', x=91.30, y=96.00, z=-1254.58] died: entity.hordes.ZombiePlayer.chat was slain by NaiSoraNaiShiro
+[29Nov2024 23:11:31.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to NaiSoraNaiShiro]
+[29Nov2024 23:11:34.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to Negks]
+[29Nov2024 23:11:55.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to Negks]
+[29Nov2024 23:12:06.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro was slain by Negks
+[29Nov2024 23:12:07.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Nov2024 23:12:07.682] [Server thread/INFO] [tac/]: PENDING
+[29Nov2024 23:12:48.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 has made the advancement [Diamonds!]
+[29Nov2024 23:13:45.838] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player fb05d785-3143-3f0a-8e67-9e556a7d061e timed out
+[29Nov2024 23:13:45.838] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player DreamyDog9896
+[29Nov2024 23:13:45.839] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to DreamyDog9896
+[29Nov2024 23:13:52.576] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Spectator Mode]
+[29Nov2024 23:13:57.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 was slain by Zombie
+[29Nov2024 23:14:28.351] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=830, y=210, z=-1073}
+[29Nov2024 23:14:28.351] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=830, y=211, z=-1073}
+[29Nov2024 23:14:28.352] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=830, y=211, z=-1073}
+[29Nov2024 23:14:28.352] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=830, y=211, z=-1073}
+[29Nov2024 23:14:28.352] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=831, y=210, z=-1073}
+[29Nov2024 23:14:28.352] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=831, y=210, z=-1073}
+[29Nov2024 23:14:28.352] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=831, y=210, z=-1073}
+[29Nov2024 23:14:28.352] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=831, y=211, z=-1073}
+[29Nov2024 23:14:28.352] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=831, y=210, z=-1073}
+[29Nov2024 23:14:28.353] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=831, y=210, z=-1073}
+[29Nov2024 23:14:28.353] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=831, y=210, z=-1073}
+[29Nov2024 23:14:28.353] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=831, y=212, z=-1073}
+[29Nov2024 23:14:28.353] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=831, y=212, z=-1073}
+[29Nov2024 23:14:28.353] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=831, y=212, z=-1073}
+[29Nov2024 23:14:28.354] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=830, y=211, z=-1073}
+[29Nov2024 23:14:28.354] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=830, y=211, z=-1073}
+[29Nov2024 23:14:28.354] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=830, y=211, z=-1073}
+[29Nov2024 23:14:28.354] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=831, y=212, z=-1073}
+[29Nov2024 23:14:28.354] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=831, y=211, z=-1073}
+[29Nov2024 23:14:28.355] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=831, y=211, z=-1073}
+[29Nov2024 23:14:28.355] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=831, y=211, z=-1073}
+[29Nov2024 23:14:28.355] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=830, y=212, z=-1073}
+[29Nov2024 23:14:28.355] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=830, y=212, z=-1073}
+[29Nov2024 23:14:28.355] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=830, y=212, z=-1073}
+[29Nov2024 23:14:28.356] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=832, y=213, z=-1072}
+[29Nov2024 23:14:28.356] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=832, y=212, z=-1072}
+[29Nov2024 23:14:28.356] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=832, y=212, z=-1072}
+[29Nov2024 23:14:28.356] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=832, y=212, z=-1072}
+[29Nov2024 23:14:28.356] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=832, y=211, z=-1072}
+[29Nov2024 23:14:28.356] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=832, y=211, z=-1072}
+[29Nov2024 23:14:28.356] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=832, y=211, z=-1072}
+[29Nov2024 23:14:28.356] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=832, y=210, z=-1057}
+[29Nov2024 23:14:31.703] [Worker-Main19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=833, y=210, z=-1057}
+[29Nov2024 23:14:31.705] [Worker-Main19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=832, y=210, z=-1057}
+[29Nov2024 23:14:31.705] [Worker-Main19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=832, y=210, z=-1057}
+[29Nov2024 23:14:31.705] [Worker-Main19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=832, y=210, z=-1057}
+[29Nov2024 23:14:31.705] [Worker-Main19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=833, y=210, z=-1057}
+[29Nov2024 23:14:31.706] [Worker-Main19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=833, y=210, z=-1057}
+[29Nov2024 23:14:31.706] [Worker-Main19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=833, y=210, z=-1057}
+[29Nov2024 23:14:31.758] [Worker-Main3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=829, y=210, z=-1057}
+[29Nov2024 23:14:31.759] [Worker-Main3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=830, y=210, z=-1057}
+[29Nov2024 23:14:31.759] [Worker-Main3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=830, y=210, z=-1057}
+[29Nov2024 23:14:31.759] [Worker-Main3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=830, y=210, z=-1057}
+[29Nov2024 23:14:31.759] [Worker-Main3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=831, y=210, z=-1057}
+[29Nov2024 23:14:31.759] [Worker-Main3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=830, y=210, z=-1057}
+[29Nov2024 23:14:31.759] [Worker-Main3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=830, y=210, z=-1057}
+[29Nov2024 23:14:31.760] [Worker-Main3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=830, y=210, z=-1057}
+[29Nov2024 23:14:31.760] [Worker-Main3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=832, y=210, z=-1057}
+[29Nov2024 23:14:31.760] [Worker-Main3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=832, y=210, z=-1057}
+[29Nov2024 23:14:31.760] [Worker-Main3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=832, y=210, z=-1057}
+[29Nov2024 23:14:49.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[29Nov2024 23:15:20.070] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DreamyDog9896 lost connection: Disconnected
+[29Nov2024 23:15:20.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 left the game
+[29Nov2024 23:15:20.071] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fb05d785-3143-3f0a-8e67-9e556a7d061e
+[29Nov2024 23:15:20.072] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DreamyDog9896
+[29Nov2024 23:15:20.124] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Nov2024 23:15:30.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
+[29Nov2024 23:15:59.508] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b8ce6e18-9f77-3a95-8e24-69a8490aa4d3 timed out
+[29Nov2024 23:15:59.508] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Negks
+[29Nov2024 23:15:59.509] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Negks
+[29Nov2024 23:16:09.371] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
+[29Nov2024 23:16:10.373] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
+[29Nov2024 23:16:10.373] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Negks (b8ce6e18-9f77-3a95-8e24-69a8490aa4d3) successfully connected to voice chat
+[29Nov2024 23:16:22.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks has made the advancement [Close Quarters]
+[29Nov2024 23:17:52.625] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[29Nov2024 23:19:12.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks was slain by Husk
+[29Nov2024 23:19:15.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Nov2024 23:19:15.650] [Server thread/INFO] [tac/]: PENDING
+[29Nov2024 23:19:25.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
+[29Nov2024 23:21:27.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to Negks]
+[29Nov2024 23:21:38.116] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Negks'/435749, l='ServerLevel[world]', x=835.90, y=72.00, z=-1125.95] died: entity.hordes.ZombiePlayer.chat was slain by NaiSoraNaiShiro
+[29Nov2024 23:21:51.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro has made the advancement [Acquire Hardware]
+[29Nov2024 23:23:13.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to Negks]
+[29Nov2024 23:25:54.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[29Nov2024 23:25:54.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sddsfsdf<--[HERE]

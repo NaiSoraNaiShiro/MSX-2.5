@@ -391,9 +391,11 @@
       "old_growth_woodland": "2024-11-29 22:34:49 +0000",
       "lavender_forest": "2024-11-29 22:52:52 +0000",
       "mediterranean_forest": "2024-11-29 22:35:56 +0000",
+      "coniferous_forest": "2024-11-29 23:14:27 +0000",
       "cherry_blossom_grove": "2024-11-29 21:41:50 +0000",
       "rocky_rainforest": "2024-11-29 22:30:41 +0000",
       "lavender_field": "2024-11-29 22:41:29 +0000",
+      "fir_clearing": "2024-11-29 23:14:34 +0000",
       "grassland": "2024-11-29 21:43:16 +0000",
       "prairie": "2024-11-29 22:51:49 +0000",
       "rainforest": "2024-11-29 22:17:08 +0000"
@@ -412,7 +414,8 @@
       "minecraft:beach": "2024-11-29 21:43:25 +0000",
       "minecraft:river": "2024-11-29 21:43:12 +0000",
       "minecraft:stony_shore": "2024-11-29 22:08:13 +0000",
-      "minecraft:forest": "2024-11-29 22:08:04 +0000"
+      "minecraft:forest": "2024-11-29 22:08:04 +0000",
+      "minecraft:ocean": "2024-11-29 23:14:04 +0000"
     },
     "done": false
   },

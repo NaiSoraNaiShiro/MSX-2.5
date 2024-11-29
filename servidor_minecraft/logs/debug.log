@@ -18654,3 +18654,201 @@ Caused by: java.lang.IllegalArgumentException: Player Negks is missing a damage 
 [29Nov2024 23:02:56.055] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/327346, l='ServerLevel[world]', x=85.31, y=90.00, z=-1259.48, removed=DISCARDED]
 [29Nov2024 23:03:09.504] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
 [29Nov2024 23:03:30.616] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['DreamyDog9896'/63967, l='ServerLevel[world]', x=87.73, y=96.00, z=-1258.70]
+[29Nov2024 23:06:29.405] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Nov2024 23:06:29.505] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[29Nov2024 23:06:34.075] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-101
+[29Nov2024 23:06:34.075] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-102
+[29Nov2024 23:06:34.076] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-103
+[29Nov2024 23:06:34.077] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-104
+[29Nov2024 23:06:34.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 23:06:34.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 23:08:50.562] [IO-Worker-104/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-105
+[29Nov2024 23:08:51.814] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Negks'/289739, l='ServerLevel[world]', x=92.70, y=96.00, z=-1256.53]
+[29Nov2024 23:09:49.607] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[29Nov2024 23:10:15.080] [IO-Worker-103/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-106
+[29Nov2024 23:11:02.438] [Worker-Main10/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[0, -4]
+[29Nov2024 23:11:21.622] [Worker-Main6/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-1, -4]
+[29Nov2024 23:11:31.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to NaiSoraNaiShiro]
+[29Nov2024 23:11:34.083] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -3] Saved.
+[29Nov2024 23:11:34.083] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -2] Saved.
+[29Nov2024 23:11:34.083] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -4] Saved.
+[29Nov2024 23:11:34.083] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-107
+[29Nov2024 23:11:34.084] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -3] Saved.
+[29Nov2024 23:11:34.085] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -4] Saved.
+[29Nov2024 23:11:34.085] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-108
+[29Nov2024 23:11:34.085] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[29Nov2024 23:11:34.085] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-109
+[29Nov2024 23:11:34.087] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-110
+[29Nov2024 23:11:34.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 23:11:34.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 23:11:34.505] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/384160, l='ServerLevel[world]', x=120.72, y=98.24, z=-1216.49], dimensionLocationPath overworld
+[29Nov2024 23:11:34.505] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/384160, l='ServerLevel[world]', x=120.72, y=98.24, z=-1216.49] in list []
+[29Nov2024 23:11:34.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to Negks]
+[29Nov2024 23:11:35.007] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/384160, l='ServerLevel[world]', x=119.88, y=97.99, z=-1216.34, removed=DISCARDED]
+[29Nov2024 23:11:36.169] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['DreamyDog9896'/63967, l='ServerLevel[world]', x=120.56, y=96.00, z=-1216.30], dimensionLocationPath overworld
+[29Nov2024 23:11:36.169] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['DreamyDog9896'/63967, l='ServerLevel[world]', x=120.56, y=96.00, z=-1216.30] in list []
+[29Nov2024 23:11:55.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to Negks]
+[29Nov2024 23:12:06.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro was slain by Negks
+[29Nov2024 23:12:06.127] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['NaiSoraNaiShiro'/158, l='ServerLevel[world]', x=217.19, y=84.00, z=-1221.29]
+[29Nov2024 23:12:07.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Nov2024 23:12:07.682] [Server thread/INFO] [tac/]: PENDING
+[29Nov2024 23:12:46.605] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/391690, l='ServerLevel[world]', x=102.98, y=102.32, z=-1269.70], dimensionLocationPath overworld
+[29Nov2024 23:12:46.605] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/391690, l='ServerLevel[world]', x=102.98, y=102.32, z=-1269.70] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@f9df]
+[29Nov2024 23:12:46.614] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['DreamyDog9896'/63967, l='ServerLevel[world]', x=102.98, y=101.00, z=-1269.70]
+[29Nov2024 23:12:48.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 has made the advancement [Diamonds!]
+[29Nov2024 23:12:51.955] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/391690, l='ServerLevel[world]', x=102.13, y=101.00, z=-1268.06, removed=DISCARDED]
+[29Nov2024 23:12:53.367] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['DreamyDog9896'/63967, l='ServerLevel[world]', x=102.90, y=101.00, z=-1268.49], dimensionLocationPath overworld
+[29Nov2024 23:12:53.367] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['DreamyDog9896'/63967, l='ServerLevel[world]', x=102.90, y=101.00, z=-1268.49] in list []
+[29Nov2024 23:12:57.468] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['DreamyDog9896'/63967, l='ServerLevel[world]', x=102.90, y=101.00, z=-1268.49]
+[29Nov2024 23:13:09.549] [IO-Worker-110/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-111
+[29Nov2024 23:13:09.549] [IO-Worker-108/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-112
+[29Nov2024 23:13:09.550] [IO-Worker-110/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-113
+[29Nov2024 23:13:09.558] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[29Nov2024 23:13:12.144] [Worker-Main3/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[1, -3]
+[29Nov2024 23:13:45.838] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player fb05d785-3143-3f0a-8e67-9e556a7d061e timed out
+[29Nov2024 23:13:45.838] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player DreamyDog9896
+[29Nov2024 23:13:45.838] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to DreamyDog9896
+[29Nov2024 23:13:45.838] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with DreamyDog9896
+[29Nov2024 23:13:45.838] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with DreamyDog9896
+[29Nov2024 23:13:45.839] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to DreamyDog9896
+[29Nov2024 23:13:45.839] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of fb05d785-3143-3f0a-8e67-9e556a7d061e to disconnected: {disabled=false, disconnected=true, uuid=fb05d785-3143-3f0a-8e67-9e556a7d061e, name=DreamyDog9896, group=null}
+[29Nov2024 23:13:52.576] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Spectator Mode]
+[29Nov2024 23:13:55.186] [Worker-Main6/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[1, -4]
+[29Nov2024 23:13:57.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 was slain by Zombie
+[29Nov2024 23:14:12.856] [IO-Worker-113/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
+[29Nov2024 23:14:12.857] [IO-Worker-112/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[29Nov2024 23:14:28.351] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=830, y=210, z=-1073}
+[29Nov2024 23:14:28.351] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=830, y=211, z=-1073}
+[29Nov2024 23:14:28.352] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=830, y=211, z=-1073}
+[29Nov2024 23:14:28.352] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=830, y=211, z=-1073}
+[29Nov2024 23:14:28.352] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=831, y=210, z=-1073}
+[29Nov2024 23:14:28.352] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=831, y=210, z=-1073}
+[29Nov2024 23:14:28.352] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=831, y=210, z=-1073}
+[29Nov2024 23:14:28.352] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=831, y=211, z=-1073}
+[29Nov2024 23:14:28.352] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=831, y=210, z=-1073}
+[29Nov2024 23:14:28.353] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=831, y=210, z=-1073}
+[29Nov2024 23:14:28.353] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=831, y=210, z=-1073}
+[29Nov2024 23:14:28.353] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=831, y=212, z=-1073}
+[29Nov2024 23:14:28.353] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=831, y=212, z=-1073}
+[29Nov2024 23:14:28.353] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=831, y=212, z=-1073}
+[29Nov2024 23:14:28.354] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=830, y=211, z=-1073}
+[29Nov2024 23:14:28.354] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=830, y=211, z=-1073}
+[29Nov2024 23:14:28.354] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=830, y=211, z=-1073}
+[29Nov2024 23:14:28.354] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=831, y=212, z=-1073}
+[29Nov2024 23:14:28.354] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=831, y=211, z=-1073}
+[29Nov2024 23:14:28.355] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=831, y=211, z=-1073}
+[29Nov2024 23:14:28.355] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=831, y=211, z=-1073}
+[29Nov2024 23:14:28.355] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=830, y=212, z=-1073}
+[29Nov2024 23:14:28.355] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=830, y=212, z=-1073}
+[29Nov2024 23:14:28.355] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=830, y=212, z=-1073}
+[29Nov2024 23:14:28.356] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=832, y=213, z=-1072}
+[29Nov2024 23:14:28.356] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=832, y=212, z=-1072}
+[29Nov2024 23:14:28.356] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=832, y=212, z=-1072}
+[29Nov2024 23:14:28.356] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=832, y=212, z=-1072}
+[29Nov2024 23:14:28.356] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=832, y=211, z=-1072}
+[29Nov2024 23:14:28.356] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=832, y=211, z=-1072}
+[29Nov2024 23:14:28.356] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=832, y=211, z=-1072}
+[29Nov2024 23:14:28.356] [Worker-Main8/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=832, y=210, z=-1057}
+[29Nov2024 23:14:31.703] [Worker-Main19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=833, y=210, z=-1057}
+[29Nov2024 23:14:31.705] [Worker-Main19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=832, y=210, z=-1057}
+[29Nov2024 23:14:31.705] [Worker-Main19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=832, y=210, z=-1057}
+[29Nov2024 23:14:31.705] [Worker-Main19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=832, y=210, z=-1057}
+[29Nov2024 23:14:31.705] [Worker-Main19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=833, y=210, z=-1057}
+[29Nov2024 23:14:31.706] [Worker-Main19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=833, y=210, z=-1057}
+[29Nov2024 23:14:31.706] [Worker-Main19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=833, y=210, z=-1057}
+[29Nov2024 23:14:31.758] [Worker-Main3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=829, y=210, z=-1057}
+[29Nov2024 23:14:31.759] [Worker-Main3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=830, y=210, z=-1057}
+[29Nov2024 23:14:31.759] [Worker-Main3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=830, y=210, z=-1057}
+[29Nov2024 23:14:31.759] [Worker-Main3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=830, y=210, z=-1057}
+[29Nov2024 23:14:31.759] [Worker-Main3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=831, y=210, z=-1057}
+[29Nov2024 23:14:31.759] [Worker-Main3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=830, y=210, z=-1057}
+[29Nov2024 23:14:31.759] [Worker-Main3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=830, y=210, z=-1057}
+[29Nov2024 23:14:31.760] [Worker-Main3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=830, y=210, z=-1057}
+[29Nov2024 23:14:31.760] [Worker-Main3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=832, y=210, z=-1057}
+[29Nov2024 23:14:31.760] [Worker-Main3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=832, y=210, z=-1057}
+[29Nov2024 23:14:31.760] [Worker-Main3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=832, y=210, z=-1057}
+[29Nov2024 23:14:33.169] [Worker-Main23/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[1, -2]
+[29Nov2024 23:14:49.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[29Nov2024 23:15:20.070] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DreamyDog9896 lost connection: Disconnected
+[29Nov2024 23:15:20.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 left the game
+[29Nov2024 23:15:20.071] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fb05d785-3143-3f0a-8e67-9e556a7d061e
+[29Nov2024 23:15:20.072] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DreamyDog9896
+[29Nov2024 23:15:20.072] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of DreamyDog9896
+[29Nov2024 23:15:20.124] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Nov2024 23:15:30.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
+[29Nov2024 23:15:59.508] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b8ce6e18-9f77-3a95-8e24-69a8490aa4d3 timed out
+[29Nov2024 23:15:59.508] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Negks
+[29Nov2024 23:15:59.509] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Negks
+[29Nov2024 23:15:59.509] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Negks
+[29Nov2024 23:15:59.509] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Negks
+[29Nov2024 23:15:59.509] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Negks
+[29Nov2024 23:15:59.509] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of b8ce6e18-9f77-3a95-8e24-69a8490aa4d3 to disconnected: {disabled=false, disconnected=true, uuid=b8ce6e18-9f77-3a95-8e24-69a8490aa4d3, name=Negks, group=null}
+[29Nov2024 23:16:09.288] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Negks: {disabled=false, disconnected=true, uuid=b8ce6e18-9f77-3a95-8e24-69a8490aa4d3, name=Negks, group=null}
+[29Nov2024 23:16:09.371] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
+[29Nov2024 23:16:10.373] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b8ce6e18-9f77-3a95-8e24-69a8490aa4d3
+[29Nov2024 23:16:10.373] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Negks to connected: {disabled=false, disconnected=false, uuid=b8ce6e18-9f77-3a95-8e24-69a8490aa4d3, name=Negks, group=null}
+[29Nov2024 23:16:10.373] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Negks (b8ce6e18-9f77-3a95-8e24-69a8490aa4d3) successfully connected to voice chat
+[29Nov2024 23:16:10.463] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Negks: {disabled=false, disconnected=false, uuid=b8ce6e18-9f77-3a95-8e24-69a8490aa4d3, name=Negks, group=null}
+[29Nov2024 23:16:22.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks has made the advancement [Close Quarters]
+[29Nov2024 23:16:29.455] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Nov2024 23:16:29.554] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[29Nov2024 23:16:32.507] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-116
+[29Nov2024 23:16:32.508] [IO-Worker-116/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117
+[29Nov2024 23:16:32.534] [IO-Worker-116/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-118
+[29Nov2024 23:16:34.072] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -3] Saved.
+[29Nov2024 23:16:34.072] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -2] Saved.
+[29Nov2024 23:16:34.072] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[0, -4] Saved.
+[29Nov2024 23:16:34.075] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, -4] Saved.
+[29Nov2024 23:16:34.076] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, -3] Saved.
+[29Nov2024 23:16:34.076] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[29Nov2024 23:16:34.077] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, -2] Saved.
+[29Nov2024 23:16:34.077] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-119
+[29Nov2024 23:16:34.077] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-120
+[29Nov2024 23:16:34.078] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-121
+[29Nov2024 23:16:34.086] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-122
+[29Nov2024 23:16:34.087] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-123
+[29Nov2024 23:16:34.087] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-124
+[29Nov2024 23:16:34.088] [IO-Worker-120/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-125
+[29Nov2024 23:16:34.088] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-126
+[29Nov2024 23:16:34.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 23:16:34.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 23:17:36.882] [IO-Worker-126/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-127
+[29Nov2024 23:17:52.625] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[29Nov2024 23:18:50.249] [Worker-Main13/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[2, -2]
+[29Nov2024 23:19:12.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks was slain by Husk
+[29Nov2024 23:19:13.438] [IO-Worker-120/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-128
+[29Nov2024 23:19:15.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Nov2024 23:19:15.650] [Server thread/INFO] [tac/]: PENDING
+[29Nov2024 23:19:25.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
+[29Nov2024 23:19:26.042] [IO-Worker-128/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-129
+[29Nov2024 23:19:26.047] [IO-Worker-128/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-130
+[29Nov2024 23:19:26.047] [IO-Worker-126/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-131
+[29Nov2024 23:19:49.655] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[29Nov2024 23:21:11.162] [IO-Worker-128/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-132
+[29Nov2024 23:21:12.633] [Worker-Main17/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[2, -3]
+[29Nov2024 23:21:27.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to Negks]
+[29Nov2024 23:21:34.077] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, -3] Saved.
+[29Nov2024 23:21:34.077] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: Saved regions file.
+[29Nov2024 23:21:34.077] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[1, -2] Saved.
+[29Nov2024 23:21:34.079] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[2, -2] Saved.
+[29Nov2024 23:21:34.079] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[2, -3] Saved.
+[29Nov2024 23:21:34.087] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-133
+[29Nov2024 23:21:34.088] [IO-Worker-129/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-134
+[29Nov2024 23:21:34.088] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-135
+[29Nov2024 23:21:34.089] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-136
+[29Nov2024 23:21:34.089] [IO-Worker-133/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-137
+[29Nov2024 23:21:34.089] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-138
+[29Nov2024 23:21:34.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 23:21:34.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 23:21:38.116] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Negks'/435749, l='ServerLevel[world]', x=835.90, y=72.00, z=-1125.95] died: entity.hordes.ZombiePlayer.chat was slain by NaiSoraNaiShiro
+[29Nov2024 23:21:51.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro has made the advancement [Acquire Hardware]
+[29Nov2024 23:22:41.565] [IO-Worker-136/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-139
+[29Nov2024 23:23:08.147] [IO-Worker-139/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-140
+[29Nov2024 23:23:08.148] [IO-Worker-139/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-141
+[29Nov2024 23:23:09.604] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[29Nov2024 23:23:13.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to Negks]
+[29Nov2024 23:24:49.519] [IO-Worker-140/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-142
+[29Nov2024 23:25:54.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[29Nov2024 23:25:54.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sddsfsdf<--[HERE]
+[29Nov2024 23:26:29.455] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Nov2024 23:26:29.605] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...

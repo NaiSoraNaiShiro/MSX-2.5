@@ -270,6 +270,12 @@
     },
     "done": true
   },
+  "crossbowverhaul:recipes/combat/bolt_diamond": {
+    "criteria": {
+      "has_ingot": "2024-11-29 23:12:48 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-29 22:26:19 +0000"
@@ -585,6 +591,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2024-11-29 22:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-11-29 23:12:48 +0000"
     },
     "done": true
   },

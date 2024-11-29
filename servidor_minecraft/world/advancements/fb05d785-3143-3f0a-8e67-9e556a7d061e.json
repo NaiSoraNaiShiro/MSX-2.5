@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-11-29 22:48:27 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2024-11-29 22:26:19 +0000"
@@ -391,6 +397,12 @@
       "minecraft:river": "2024-11-29 22:27:11 +0000"
     },
     "done": false
+  },
+  "crossbowverhaul:recipes/combat/bolt_gold": {
+    "criteria": {
+      "has_ingot": "2024-11-29 22:48:08 +0000"
+    },
+    "done": true
   },
   "comforts:hammock_blue_from_white": {
     "criteria": {

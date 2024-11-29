@@ -17926,3 +17926,89 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Nov2024 22:43:09.405] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
 [29Nov2024 22:44:57.673] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['DreamyDog9896'/63967, l='ServerLevel[world]', x=-212.50, y=84.00, z=-119.14]
 [29Nov2024 22:45:40.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made NaiSoraNaiShiro a server operator
+[29Nov2024 22:46:17.609] [IO-Worker-61/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-66
+[29Nov2024 22:46:29.354] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Nov2024 22:46:29.404] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[29Nov2024 22:46:34.099] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-67
+[29Nov2024 22:46:34.099] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-68
+[29Nov2024 22:46:34.100] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-69
+[29Nov2024 22:46:34.102] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-70
+[29Nov2024 22:46:34.102] [IO-Worker-66/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-71
+[29Nov2024 22:46:34.102] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-72
+[29Nov2024 22:46:34.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 22:46:34.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 22:47:38.069] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[29Nov2024 22:47:59.058] [IO-Worker-70/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[29Nov2024 22:49:18.370] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Negks'/5402, l='ServerLevel[world]', x=-477.05, y=64.00, z=-746.76], dimensionLocationPath overworld
+[29Nov2024 22:49:18.371] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Negks'/5402, l='ServerLevel[world]', x=-477.05, y=64.00, z=-746.76] in list []
+[29Nov2024 22:49:18.468] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Negks'/5402, l='ServerLevel[world]', x=-477.05, y=64.00, z=-746.76]
+[29Nov2024 22:49:18.816] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Negks'/5402, l='ServerLevel[world]', x=-476.97, y=64.00, z=-746.52], dimensionLocationPath overworld
+[29Nov2024 22:49:18.816] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Negks'/5402, l='ServerLevel[world]', x=-476.97, y=64.00, z=-746.52] in list []
+[29Nov2024 22:49:25.805] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/236775, l='ServerLevel[world]', x=-474.34, y=64.24, z=-747.36], dimensionLocationPath overworld
+[29Nov2024 22:49:25.805] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/236775, l='ServerLevel[world]', x=-474.34, y=64.24, z=-747.36] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@151a]
+[29Nov2024 22:49:26.205] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/236777, l='ServerLevel[world]', x=-475.39, y=64.39, z=-747.26], dimensionLocationPath overworld
+[29Nov2024 22:49:26.205] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/236777, l='ServerLevel[world]', x=-475.39, y=64.39, z=-747.26] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@151a, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@39ce7]
+[29Nov2024 22:49:26.305] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/236775, l='ServerLevel[world]', x=-473.55, y=64.00, z=-747.40, removed=DISCARDED]
+[29Nov2024 22:49:26.705] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/236777, l='ServerLevel[world]', x=-475.19, y=64.15, z=-747.88, removed=DISCARDED]
+[29Nov2024 22:49:26.905] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/236915, l='ServerLevel[world]', x=-476.73, y=64.47, z=-746.73], dimensionLocationPath overworld
+[29Nov2024 22:49:26.905] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/236915, l='ServerLevel[world]', x=-476.73, y=64.47, z=-746.73] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@151a]
+[29Nov2024 22:49:27.355] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/237006, l='ServerLevel[world]', x=-477.66, y=64.30, z=-746.70], dimensionLocationPath overworld
+[29Nov2024 22:49:27.355] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/237006, l='ServerLevel[world]', x=-477.66, y=64.30, z=-746.70] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@151a, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@39d73]
+[29Nov2024 22:49:27.405] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/236915, l='ServerLevel[world]', x=-476.26, y=64.23, z=-747.15, removed=DISCARDED]
+[29Nov2024 22:49:27.705] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/237007, l='ServerLevel[world]', x=-478.57, y=64.49, z=-747.26], dimensionLocationPath overworld
+[29Nov2024 22:49:27.705] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/237007, l='ServerLevel[world]', x=-478.57, y=64.49, z=-747.26] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@151a, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@39dce]
+[29Nov2024 22:49:27.855] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/237006, l='ServerLevel[world]', x=-477.42, y=64.05, z=-746.14, removed=DISCARDED]
+[29Nov2024 22:49:28.205] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/237007, l='ServerLevel[world]', x=-478.88, y=64.25, z=-746.84, removed=DISCARDED]
+[29Nov2024 22:49:32.105] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/237445, l='ServerLevel[world]', x=-477.74, y=64.40, z=-747.44], dimensionLocationPath overworld
+[29Nov2024 22:49:32.105] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/237445, l='ServerLevel[world]', x=-477.74, y=64.40, z=-747.44] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@151a]
+[29Nov2024 22:49:32.805] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/237445, l='ServerLevel[world]', x=-478.80, y=64.00, z=-747.88, removed=DISCARDED]
+[29Nov2024 22:49:34.230] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Negks'/5402, l='ServerLevel[world]', x=-477.82, y=64.00, z=-747.55]
+[29Nov2024 22:49:34.819] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Negks'/5402, l='ServerLevel[world]', x=-477.82, y=64.00, z=-747.55], dimensionLocationPath overworld
+[29Nov2024 22:49:34.819] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Negks'/5402, l='ServerLevel[world]', x=-477.82, y=64.00, z=-747.55] in list []
+[29Nov2024 22:49:36.605] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/238008, l='ServerLevel[world]', x=-477.62, y=64.40, z=-747.75], dimensionLocationPath overworld
+[29Nov2024 22:49:36.605] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/238008, l='ServerLevel[world]', x=-477.62, y=64.40, z=-747.75] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@151a]
+[29Nov2024 22:49:37.205] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/238010, l='ServerLevel[world]', x=-476.67, y=64.42, z=-747.32], dimensionLocationPath overworld
+[29Nov2024 22:49:37.205] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/238010, l='ServerLevel[world]', x=-476.67, y=64.42, z=-747.32] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@151a, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@3a1b8]
+[29Nov2024 22:49:37.705] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/238010, l='ServerLevel[world]', x=-476.28, y=64.17, z=-747.36, removed=DISCARDED]
+[29Nov2024 22:49:37.855] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/238008, l='ServerLevel[world]', x=-477.60, y=64.00, z=-747.31, removed=DISCARDED]
+[29Nov2024 22:49:39.455] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/238269, l='ServerLevel[world]', x=-478.60, y=64.23, z=-747.27], dimensionLocationPath overworld
+[29Nov2024 22:49:39.455] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/238269, l='ServerLevel[world]', x=-478.60, y=64.23, z=-747.27] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@151a]
+[29Nov2024 22:49:39.955] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/238269, l='ServerLevel[world]', x=-478.88, y=64.00, z=-746.36, removed=DISCARDED]
+[29Nov2024 22:49:49.555] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[29Nov2024 22:50:20.182] [IO-Worker-73/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[29Nov2024 22:50:20.183] [IO-Worker-70/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[29Nov2024 22:50:22.675] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Negks'/5402, l='ServerLevel[world]', x=-446.58, y=60.94, z=-713.07]
+[29Nov2024 22:50:24.973] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Negks'/5402, l='ServerLevel[world]', x=-438.53, y=62.56, z=-715.74], dimensionLocationPath overworld
+[29Nov2024 22:50:24.973] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Negks'/5402, l='ServerLevel[world]', x=-438.53, y=62.56, z=-715.74] in list []
+[29Nov2024 22:50:25.324] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Negks'/5402, l='ServerLevel[world]', x=-437.39, y=62.51, z=-716.03]
+[29Nov2024 22:50:34.468] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Negks'/5402, l='ServerLevel[world]', x=-434.59, y=62.93, z=-711.97], dimensionLocationPath overworld
+[29Nov2024 22:50:34.468] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Negks'/5402, l='ServerLevel[world]', x=-434.59, y=62.93, z=-711.97] in list []
+[29Nov2024 22:50:36.976] [IO-Worker-73/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[29Nov2024 22:50:58.505] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/246979, l='ServerLevel[world]', x=-374.45, y=73.31, z=-699.53], dimensionLocationPath overworld
+[29Nov2024 22:50:58.505] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/246979, l='ServerLevel[world]', x=-374.45, y=73.31, z=-699.53] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@151a]
+[29Nov2024 22:50:58.955] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/246980, l='ServerLevel[world]', x=-375.43, y=73.53, z=-699.70], dimensionLocationPath overworld
+[29Nov2024 22:50:58.955] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/246980, l='ServerLevel[world]', x=-375.43, y=73.53, z=-699.70] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@151a, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@3c4c3]
+[29Nov2024 22:50:59.005] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/246979, l='ServerLevel[world]', x=-374.91, y=73.07, z=-699.77, removed=DISCARDED]
+[29Nov2024 22:50:59.455] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/246980, l='ServerLevel[world]', x=-374.64, y=73.28, z=-699.84, removed=DISCARDED]
+[29Nov2024 22:51:32.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Spectator Mode]
+[29Nov2024 22:51:34.086] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, -2] Saved.
+[29Nov2024 22:51:34.086] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[29Nov2024 22:51:34.087] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[29Nov2024 22:51:34.102] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[29Nov2024 22:51:34.102] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[29Nov2024 22:51:34.103] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[29Nov2024 22:51:34.104] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[29Nov2024 22:51:34.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 22:51:34.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 22:51:39.594] [Worker-Main16/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-1, -3]
+[29Nov2024 22:51:52.928] [Worker-Main24/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[0, -2]
+[29Nov2024 22:52:17.576] [Worker-Main4/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[-2, -3]
+[29Nov2024 22:52:35.204] [Worker-Main12/DEBUG] [immersivepetroleum/RegionDataStorage/]: Created RegionData[0, -3]
+[29Nov2024 22:52:59.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[29Nov2024 22:53:09.455] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[29Nov2024 22:53:13.941] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.Network/]: Network at position BlockPos{x=91, y=108, z=-1260} changed running state to true, causing an invalidation of the node graph
+[29Nov2024 22:53:47.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Negks to NaiSoraNaiShiro
+[29Nov2024 22:53:47.924] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[29Nov2024 22:53:47.925] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[29Nov2024 22:53:56.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported DreamyDog9896 to NaiSoraNaiShiro]
+[29Nov2024 22:54:36.667] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Negks'/5402, l='ServerLevel[world]', x=91.44, y=113.00, z=-1261.41]

@@ -1066,3 +1066,8 @@
 [29Nov2024 22:41:15.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks has made the advancement [Huddle Close]
 [29Nov2024 22:42:04.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Negks to NaiSoraNaiShiro
 [29Nov2024 22:45:40.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made NaiSoraNaiShiro a server operator
+[29Nov2024 22:47:38.069] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[29Nov2024 22:51:32.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Spectator Mode]
+[29Nov2024 22:52:59.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Set own game mode to Survival Mode]
+[29Nov2024 22:53:47.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Negks to NaiSoraNaiShiro
+[29Nov2024 22:53:56.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported DreamyDog9896 to NaiSoraNaiShiro]

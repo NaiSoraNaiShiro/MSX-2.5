@@ -8,7 +8,7 @@
 	properties: {
 		"ftbteams:display_name": "Negks"
 		"ftbteams:description": ""
-		"ftbteams:color": "#FF7F59"
+		"ftbteams:color": "#59FFB0"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}

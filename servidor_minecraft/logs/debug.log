@@ -18358,3 +18358,31 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Nov2024 20:26:03.901] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config comforts-server.toml' to 'fml:handshake' sequence 34
 [29Nov2024 20:26:03.953] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config diet-effects.toml' to 'fml:handshake' sequence 35
 [29Nov2024 20:26:04.001] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@54c66b4f[id=<null>,name=Cronianjack,properties={},legacy=false] (/100.108.6.38:52412) lost connection: Disconnected
+[29Nov2024 20:27:12.150] [IO-Worker-75/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[29Nov2024 20:27:36.894] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[29Nov2024 20:27:36.894] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Nov2024 20:27:42.308] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[29Nov2024 20:27:42.308] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[29Nov2024 20:27:42.320] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[29Nov2024 20:27:42.321] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[29Nov2024 20:27:42.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 20:27:42.351] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 20:30:57.194] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[29Nov2024 20:31:16.303] [IO-Worker-72/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[29Nov2024 20:31:16.460] [IO-Worker-81/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[29Nov2024 20:32:42.307] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[29Nov2024 20:32:42.308] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[29Nov2024 20:32:42.308] [Server thread/DEBUG] [immersivepetroleum/RegionDataStorage/]: RegionData[-1, 0] Saved.
+[29Nov2024 20:32:42.316] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[29Nov2024 20:32:42.316] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[29Nov2024 20:32:42.317] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-87
+[29Nov2024 20:32:42.317] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-88
+[29Nov2024 20:32:42.318] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-89
+[29Nov2024 20:32:42.328] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Nov2024 20:32:42.351] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Nov2024 20:32:49.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro has made the advancement [Crops of the Wild]
+[29Nov2024 20:34:16.994] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[29Nov2024 20:36:03.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks drowned
+[29Nov2024 20:36:04.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Nov2024 20:36:04.872] [Server thread/INFO] [tac/]: PENDING
+[29Nov2024 20:36:36.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Negks to NaiSoraNaiShiro

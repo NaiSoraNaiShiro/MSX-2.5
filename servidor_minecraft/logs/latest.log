@@ -1077,3 +1077,8 @@
 [29Nov2024 20:23:53.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported NaiSoraNaiShiro to Negks
 [29Nov2024 20:24:07.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks has made the advancement [Stone Age]
 [29Nov2024 20:26:04.001] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@54c66b4f[id=<null>,name=Cronianjack,properties={},legacy=false] (/100.108.6.38:52412) lost connection: Disconnected
+[29Nov2024 20:32:49.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro has made the advancement [Crops of the Wild]
+[29Nov2024 20:36:03.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks drowned
+[29Nov2024 20:36:04.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[29Nov2024 20:36:04.872] [Server thread/INFO] [tac/]: PENDING
+[29Nov2024 20:36:36.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported Negks to NaiSoraNaiShiro

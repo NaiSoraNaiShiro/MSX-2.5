@@ -1276,3 +1276,12 @@ Caused by: java.lang.IllegalArgumentException: Player Negks is missing a damage 
 [29Nov2024 23:35:00.285] [Server thread/INFO] [tac/]: PENDING
 [29Nov2024 23:35:01.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported DreamyDog9896 to NaiSoraNaiShiro]
 [29Nov2024 23:36:16.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 has made the advancement [Disme A Dozen]
+[29Nov2024 23:39:17.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro has reached the goal [Modern Materials]
+[29Nov2024 23:39:19.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks has reached the goal [Modern Materials]
+[29Nov2024 23:39:37.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 has reached the goal [Modern Materials]
+[29Nov2024 23:39:51.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro has made the advancement [Close Quarters]
+[29Nov2024 23:39:55.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 has made the advancement [Amateur Archaeologist]
+[29Nov2024 23:40:03.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro has made the advancement [Amateur Archaeologist]
+[29Nov2024 23:41:52.064] [Server thread/INFO] [de.melanx.simplebackups.SimpleBackups/]: Backup done.
+[29Nov2024 23:41:52.065] [SimpleBackups/INFO] [de.melanx.simplebackups.BackupThread/]: Successfully deleted "world_2024-11-29_21-21-01.zip"
+[29Nov2024 23:43:56.000] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN

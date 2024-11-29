@@ -228,6 +228,12 @@
     },
     "done": true
   },
+  "immersiveengineering:multiblocks/craft_duroplast": {
+    "criteria": {
+      "has_item": "2024-11-29 23:39:37 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_lime": {
     "criteria": {
       "has_the_recipe": "2024-11-29 22:26:19 +0000"
@@ -291,6 +297,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-11-29 22:48:27 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-11-29 23:39:55 +0000"
     },
     "done": true
   },

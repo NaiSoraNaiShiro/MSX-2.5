@@ -176,6 +176,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2024-11-29 22:04:19 +0000",
+      "cookie": "2024-11-29 23:37:33 +0000",
       "melon_slice": "2024-11-29 23:10:50 +0000"
     },
     "done": false
@@ -213,6 +214,12 @@
   "comforts:sleeping_bag_green": {
     "criteria": {
       "has_the_recipe": "2024-11-29 21:45:09 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/craft_duroplast": {
+    "criteria": {
+      "has_item": "2024-11-29 23:39:19 +0000"
     },
     "done": true
   },

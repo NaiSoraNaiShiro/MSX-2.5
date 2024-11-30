@@ -613,6 +613,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2024-11-30 01:09:53 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_lime_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-29 22:26:19 +0000"

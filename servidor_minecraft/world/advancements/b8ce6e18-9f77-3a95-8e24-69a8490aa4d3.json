@@ -54,6 +54,12 @@
     },
     "done": true
   },
+  "ag_day_counter:tenth_day_advancement": {
+    "criteria": {
+      "tenth_day_advancement": "2024-11-30 01:08:29 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:recipes/thermolith": {
     "criteria": {
       "has_recipe": "2024-11-29 21:45:09 +0000"
@@ -451,7 +457,9 @@
       "minecraft:beach": "2024-11-29 21:47:28 +0000",
       "minecraft:dark_forest": "2024-11-29 21:48:51 +0000",
       "minecraft:river": "2024-11-29 21:47:04 +0000",
-      "minecraft:stony_shore": "2024-11-29 23:14:37 +0000"
+      "minecraft:stony_shore": "2024-11-29 23:14:37 +0000",
+      "minecraft:cold_ocean": "2024-11-30 01:13:40 +0000",
+      "minecraft:deep_cold_ocean": "2024-11-30 01:14:53 +0000"
     },
     "done": false
   },

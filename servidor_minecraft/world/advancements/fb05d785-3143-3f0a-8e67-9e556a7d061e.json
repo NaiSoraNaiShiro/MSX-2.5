@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2024-11-30 01:03:37 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-29 22:26:19 +0000"
@@ -189,7 +195,8 @@
     "criteria": {
       "bread": "2024-11-29 22:56:23 +0000",
       "cookie": "2024-11-29 22:39:58 +0000",
-      "salmon": "2024-11-30 00:05:48 +0000"
+      "salmon": "2024-11-30 00:05:48 +0000",
+      "cooked_salmon": "2024-11-30 01:00:32 +0000"
     },
     "done": false
   },
@@ -444,7 +451,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2024-11-29 22:27:11 +0000",
-      "minecraft:stony_shore": "2024-11-29 23:28:18 +0000"
+      "minecraft:stony_shore": "2024-11-29 23:28:18 +0000",
+      "minecraft:cold_ocean": "2024-11-30 01:05:32 +0000"
     },
     "done": false
   },

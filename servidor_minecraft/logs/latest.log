@@ -21,3 +21,19 @@
 [30Nov2024 00:20:25.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=982, y=66, z=-1216} BlockPos{x=984, y=65, z=-1215}
 [30Nov2024 00:20:33.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
 [30Nov2024 00:26:15.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 has made the advancement [HAMMAH!]
+[30Nov2024 00:29:15.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
+[30Nov2024 00:29:16.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported DreamyDog9896 to NaiSoraNaiShiro]
+[30Nov2024 00:29:41.868] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro has made the advancement [Penteconter]
+[30Nov2024 00:32:33.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to DreamyDog9896]
+[30Nov2024 00:32:50.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to NaiSoraNaiShiro]
+[30Nov2024 00:32:53.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to DreamyDog9896]
+[30Nov2024 00:33:03.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to DreamyDog9896]
+[30Nov2024 00:33:21.034] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[30Nov2024 00:33:23.013] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[30Nov2024 00:33:44.324] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[30Nov2024 00:34:00.565] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[30Nov2024 00:35:23.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks has made the advancement [Decorative and sturdy]
+[30Nov2024 00:36:20.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 burned to death
+[30Nov2024 00:36:21.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[30Nov2024 00:36:21.636] [Server thread/INFO] [tac/]: PENDING
+[30Nov2024 00:36:55.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported DreamyDog9896 to NaiSoraNaiShiro]

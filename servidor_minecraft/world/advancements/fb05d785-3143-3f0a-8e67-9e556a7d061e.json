@@ -247,6 +247,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-11-30 00:08:51 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_the_recipe": "2024-11-29 22:26:19 +0000"
@@ -620,6 +626,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2024-11-29 22:26:19 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-11-30 00:11:28 +0000"
     },
     "done": true
   },

@@ -448,6 +448,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-11-30 00:19:52 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2024-11-29 22:26:19 +0000"
@@ -469,6 +475,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-11-29 22:39:58 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "has_item": "2024-11-30 00:26:15 +0000"
     },
     "done": true
   },

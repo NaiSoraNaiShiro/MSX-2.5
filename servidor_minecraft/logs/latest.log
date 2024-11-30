@@ -11,3 +11,13 @@
 [30Nov2024 00:08:51.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 has made the advancement [Isn't It Iron Pick]
 [30Nov2024 00:11:28.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 has made the advancement [Close Quarters]
 [30Nov2024 00:13:12.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks has made the advancement [Connecting]
+[30Nov2024 00:18:54.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported DreamyDog9896 to NaiSoraNaiShiro]
+[30Nov2024 00:19:06.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
+[30Nov2024 00:19:52.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 has made the advancement [Sweet Dreams]
+[30Nov2024 00:20:14.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 was slain by NaiSoraNaiShiro
+[30Nov2024 00:20:16.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[30Nov2024 00:20:16.802] [Server thread/INFO] [tac/]: PENDING
+[30Nov2024 00:20:17.923] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['DreamyDog9896'/822988, l='ServerLevel[world]', x=968.19, y=72.00, z=-1208.35] died: entity.hordes.ZombiePlayer.chat was slain by NaiSoraNaiShiro
+[30Nov2024 00:20:25.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=982, y=66, z=-1216} BlockPos{x=984, y=65, z=-1215}
+[30Nov2024 00:20:33.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
+[30Nov2024 00:26:15.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 has made the advancement [HAMMAH!]

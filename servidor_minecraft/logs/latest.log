@@ -37,3 +37,34 @@
 [30Nov2024 00:36:21.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
 [30Nov2024 00:36:21.636] [Server thread/INFO] [tac/]: PENDING
 [30Nov2024 00:36:55.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported DreamyDog9896 to NaiSoraNaiShiro]
+[30Nov2024 00:38:09.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro died because of Zombie
+[30Nov2024 00:38:09.272] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[30Nov2024 00:38:09.274] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 9 is dual wielding: false
+[30Nov2024 00:38:09.274] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[30Nov2024 00:38:09.274] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[30Nov2024 00:38:09.274] [Server thread/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[30Nov2024 00:38:11.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[30Nov2024 00:38:11.123] [Server thread/INFO] [tac/]: PENDING
+[30Nov2024 00:38:18.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported NaiSoraNaiShiro to DreamyDog9896]
+[30Nov2024 00:38:40.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 died
+[30Nov2024 00:38:42.747] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[30Nov2024 00:38:42.748] [Server thread/INFO] [tac/]: PENDING
+[30Nov2024 00:40:52.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported DreamyDog9896 to NaiSoraNaiShiro]
+[30Nov2024 00:41:03.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks has made the advancement [Ice Bucket Challenge]
+[30Nov2024 00:41:39.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Negks to NaiSoraNaiShiro]
+[30Nov2024 00:44:31.510] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@211be7cc[id=<null>,name=Cronianjack,properties={},legacy=false] (/100.108.6.38:61683) lost connection: Disconnected
+[30Nov2024 00:46:26.361] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@266cbf67
+[30Nov2024 00:46:26.364] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cronianjack[/100.108.6.38:61707] logged in with entity id 1002187 at (48.5, 68.0, 32.5)
+[30Nov2024 00:46:26.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cronianjack joined the game
+[30Nov2024 00:46:26.380] [Server thread/INFO] [tac/]: PENDING
+[30Nov2024 00:46:26.421] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 9a41c3e4-33c1-3ae7-9e10-6223582b449a
+[30Nov2024 00:46:26.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cronianjack has made the advancement [Inhospitable]
+[30Nov2024 00:46:27.032] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Cronianjack (17)
+[30Nov2024 00:46:27.032] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Cronianjack
+[30Nov2024 00:46:37.881] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9a41c3e4-33c1-3ae7-9e10-6223582b449a
+[30Nov2024 00:46:38.872] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9a41c3e4-33c1-3ae7-9e10-6223582b449a
+[30Nov2024 00:46:38.873] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Cronianjack (9a41c3e4-33c1-3ae7-9e10-6223582b449a) successfully connected to voice chat
+[30Nov2024 00:47:22.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Cronianjack to NaiSoraNaiShiro]
+[30Nov2024 00:47:27.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [NaiSoraNaiShiro: Teleported Cronianjack to NaiSoraNaiShiro]
+[30Nov2024 00:47:29.699] [Server thread/INFO] [io.github.mortuusars.chalk.Chalk/]: Chalk cannot be drawn at this position. (963, 69, -1213)
+[30Nov2024 00:47:30.227] [Server thread/INFO] [io.github.mortuusars.chalk.Chalk/]: Chalk cannot be drawn at this position. (963, 69, -1213)

@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "immersiveengineering:multiblocks/craft_sheetmetal": {
+    "criteria": {
+      "has_item": "2024-11-30 00:54:37 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:theundeadchallenges": {
     "criteria": {
       "theundeadchallenges": "2024-11-29 22:26:19 +0000"
@@ -280,6 +286,12 @@
   "comforts:sleeping_bag_gray": {
     "criteria": {
       "has_the_recipe": "2024-11-29 22:26:19 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2024-11-30 00:48:57 +0000"
     },
     "done": true
   },

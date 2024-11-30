@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "ag_day_counter:tenth_day_advancement": {
+    "criteria": {
+      "tenth_day_advancement": "2024-11-30 01:28:29 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:recipes/thermolith": {
     "criteria": {
       "has_recipe": "2024-11-29 22:26:19 +0000"
@@ -431,6 +437,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "clover_patch": "2024-11-29 22:26:57 +0000",
+      "field": "2024-11-30 01:31:44 +0000",
       "lavender_forest": "2024-11-29 22:54:22 +0000",
       "coniferous_forest": "2024-11-29 23:32:52 +0000",
       "cherry_blossom_grove": "2024-11-29 22:26:19 +0000",
@@ -450,9 +457,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2024-11-30 01:31:46 +0000",
       "minecraft:river": "2024-11-29 22:27:11 +0000",
       "minecraft:stony_shore": "2024-11-29 23:28:18 +0000",
-      "minecraft:cold_ocean": "2024-11-30 01:05:32 +0000"
+      "minecraft:cold_ocean": "2024-11-30 01:05:32 +0000",
+      "minecraft:deep_cold_ocean": "2024-11-30 01:30:41 +0000"
     },
     "done": false
   },
@@ -591,7 +600,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:husk": "2024-11-29 22:30:03 +0000",
-      "minecraft:zombie": "2024-11-29 22:27:50 +0000"
+      "minecraft:zombie": "2024-11-29 22:27:50 +0000",
+      "minecraft:drowned": "2024-11-30 01:34:51 +0000"
     },
     "done": false
   },

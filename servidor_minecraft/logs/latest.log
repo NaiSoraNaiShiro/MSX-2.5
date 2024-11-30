@@ -96,3 +96,47 @@
 [30Nov2024 01:13:52.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Negks) moved wrongly! 0.4190120400377282
 [30Nov2024 01:13:52.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Negks) moved wrongly! 0.5902458340210615
 [30Nov2024 01:13:53.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Negks) moved wrongly! 0.565788302077749
+[30Nov2024 01:20:05.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cronianjack has made the advancement [They're out there...]
+[30Nov2024 01:20:05.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cronianjack has made the advancement [Ready to enchant.]
+[30Nov2024 01:20:06.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NaiSoraNaiShiro lost connection: Disconnected
+[30Nov2024 01:20:06.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NaiSoraNaiShiro left the game
+[30Nov2024 01:20:06.670] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 86d92052-ae22-36c5-8f75-d7eca2081c97
+[30Nov2024 01:20:06.671] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NaiSoraNaiShiro
+[30Nov2024 01:21:01.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Negks froze to death
+[30Nov2024 01:21:04.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[30Nov2024 01:21:04.518] [Server thread/INFO] [tac/]: PENDING
+[30Nov2024 01:21:06.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cronianjack froze to death
+[30Nov2024 01:21:07.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[30Nov2024 01:21:07.573] [Server thread/INFO] [tac/]: PENDING
+[30Nov2024 01:21:45.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cronianjack fell from a high place
+[30Nov2024 01:21:46.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[30Nov2024 01:21:46.822] [Server thread/INFO] [tac/]: PENDING
+[30Nov2024 01:23:31.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cronianjack drowned whilst trying to escape Zombie Dolphin
+[30Nov2024 01:23:33.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[30Nov2024 01:23:33.169] [Server thread/INFO] [tac/]: PENDING
+[30Nov2024 01:24:16.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cronianjack was slain by Zombie
+[30Nov2024 01:24:17.344] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Negks> [name:"casa provicional", x:966, y:68, z:-1210, dim:minecraft:overworld]
+[30Nov2024 01:24:17.452] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[30Nov2024 01:24:17.452] [Server thread/INFO] [tac/]: PENDING
+[30Nov2024 01:25:39.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DreamyDog9896 moved wrongly!
+[30Nov2024 01:28:29.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 has made the advancement [Keep Going]
+[30Nov2024 01:30:48.163] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player fb05d785-3143-3f0a-8e67-9e556a7d061e timed out
+[30Nov2024 01:30:48.164] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player DreamyDog9896
+[30Nov2024 01:30:48.165] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to DreamyDog9896
+[30Nov2024 01:32:11.022] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DreamyDog9896 lost connection: Timed out
+[30Nov2024 01:32:11.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 left the game
+[30Nov2024 01:32:11.023] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fb05d785-3143-3f0a-8e67-9e556a7d061e
+[30Nov2024 01:32:11.024] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DreamyDog9896
+[30Nov2024 01:33:04.282] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1d9634cf
+[30Nov2024 01:33:04.287] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DreamyDog9896[/100.68.56.8:55337] logged in with entity id 1332338 at (1044.0217621387967, 62.073264324665075, -1866.1990397143834)
+[30Nov2024 01:33:04.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DreamyDog9896 joined the game
+[30Nov2024 01:33:04.360] [Server thread/INFO] [tac/]: PENDING
+[30Nov2024 01:33:04.408] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for fb05d785-3143-3f0a-8e67-9e556a7d061e
+[30Nov2024 01:33:04.576] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DreamyDog9896 (17)
+[30Nov2024 01:33:04.577] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DreamyDog9896
+[30Nov2024 01:33:13.695] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fb05d785-3143-3f0a-8e67-9e556a7d061e
+[30Nov2024 01:33:14.687] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fb05d785-3143-3f0a-8e67-9e556a7d061e
+[30Nov2024 01:33:14.688] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player DreamyDog9896 (fb05d785-3143-3f0a-8e67-9e556a7d061e) successfully connected to voice chat
+[30Nov2024 01:36:46.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cronianjack has made the advancement [Mine? Mine? Mine?]
+[30Nov2024 01:37:56.759] [Worker-Main22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=723, y=78, z=-2125}
+[30Nov2024 01:37:59.011] [Worker-Main11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=707, y=84, z=-2052}

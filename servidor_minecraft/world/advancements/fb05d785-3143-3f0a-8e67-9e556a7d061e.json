@@ -182,7 +182,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2024-11-29 22:56:23 +0000",
-      "cookie": "2024-11-29 22:39:58 +0000"
+      "cookie": "2024-11-29 22:39:58 +0000",
+      "salmon": "2024-11-30 00:05:48 +0000"
     },
     "done": false
   },
